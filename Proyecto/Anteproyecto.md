@@ -3,7 +3,9 @@
 ## Nombre: Crea Felicidad
 ## Tipo: Implementación de Odoo
 - Localización: Argentina
-- Vertical: Cadena de Bares
+- Vertical: 
+            * Cadena de Bares
+            * Venta Mayorista
 
 ## Datos de la(s) Compañia
 Empresa 1
