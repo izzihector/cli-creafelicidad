@@ -35,12 +35,68 @@ Empresa 3
 
 ## Datos de la(s) Unidad(es) Operativa(s)
 #
-Unidad Operativa 1
+Unidad Operativa 2.1
+#
+- Nombre Fantasía: Apartamento
+- Nombre Corto:
+- Empresa: INDUSTRIAS S.R.L.
+- Dirección:
+- Código: APA
+- Vertical: Bar
+#
+Unidad Operativa 2.2
+#
+- Nombre Fantasía: Dadá
+- Nombre Corto:
+- Empresa: INDUSTRIAS S.R.L.
+- Dirección:
+- Código: DAD
+- Vertical: Bar
+#
+Unidad Operativa 2.3
+#
+- Nombre Fantasía: Catering
+- Nombre Corto: Catering
+- Empresa: INDUSTRIAS S.R.L.
+- Dirección:
+- Código: CATFE
+- Vertical: Venta Mayorista
+#
+Unidad Operativa 3.1
 #
 - Nombre Fantasía: Capitán
-- Empresa:
+- Nombre Corto:
+- Empresa: FELICIDAD S.R.L.
 - Dirección:
-- Código:
+- Código: CAP
+- Vertical: Bar
+#
+Unidad Operativa 3.2
+#
+- Nombre Fantasía: Brunchería
+- Nombre Corto:
+- Empresa: FELICIDAD S.R.L.
+- Dirección:
+- Código: BRU
+- Vertical: Bar
+#
+Unidad Operativa 3.3
+#
+- Nombre Fantasía: Billy Beer
+- Nombre Corto: Billy
+- Empresa: FELICIDAD S.R.L.
+- Dirección:
+- Código: BIL
+- Vertical: Bar
+#
+Unidad Operativa 3.4
+#
+- Nombre Fantasía: Catering
+- Nombre Corto: Catering
+- Empresa: FELICIDAD S.R.L.
+- Dirección:
+- Código: CATIN
+- Vertical: Venta Mayorista
 
 ### Parametrizaciones de la Compañia
 #### Estructura empresarial
