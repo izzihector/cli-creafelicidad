@@ -5,6 +5,43 @@
 - Localización: Argentina
 - Vertical: Cadena de Bares
 
+## Datos de la(s) Compañia
+Empresa 1
+#
+- Empresa de Consolidación: Si
+- Empresa Padre: No
+- Razon social: Holding
+- CUIT: 30111111118
+- Dirección: Sin Dirección
+- Inicio de Actividades: Actual
+#
+Empresa 2
+#
+- Empresa de Consolidación: No
+- Empresa Padre: Holding
+- Razon social: INDUSTRIAS S.R.L.
+- CUIT: 30712261516
+- Dirección: MARCELO T. DE ALVEAR 482 Piso:2 Dpto:C - BARRIO : GUEMES, BARRIO GUEMES, 5000-CORDOBA
+- Inicio de Actividades: Fecha de contrato social: 2012-03-14
+#
+Empresa 3
+#
+- Empresa de Consolidación: No
+- Empresa Padre: Holding
+- Razon social: FELICIDAD S.R.L.
+- CUIT: 30714353418
+- Dirección: MARCELO T. DE ALVEAR 482 Piso:2 Dpto:C - BARRIO : GUEMES, BARRIO GUEMES, 5000-CORDOBA
+- Inicio de Actividades: Fecha de contrato social: 2014-01-02
+
+## Datos de la(s) Unidad(es) Operativa(s)
+#
+Unidad Operativa 1
+#
+- Nombre Fantasía: Capitán
+- Empresa:
+- Dirección:
+- Código:
+
 ### Parametrizaciones de la Compañia
 #### Estructura empresarial
 - [ ] Monoempresa
