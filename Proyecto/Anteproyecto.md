@@ -1,5 +1,6 @@
-# Anteproyecto y Modelamiento Crea Felicidad
-## Cumbre - Gestión en Software: Anteproyecto y Modelamiento
+# Cumbre - Gestión en Software 
+## Etapa: Anteproyecto y Modelamiento
+## Nombre: Crea Felicidad
 ## Implementación de Odoo
 - [x] Localización: Argentina
 
