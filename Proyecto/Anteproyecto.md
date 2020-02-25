@@ -8,8 +8,8 @@
 - [ ] Monoempresa
 - [x] Multiempresa
 ~~~
-* Monoempresa: Una estructura de una sola razon social, tiene definido un número fiscal y un solo plan de cuentas
-* Multiempresa: Una estructura de multiples empresas, tienen definido un numero fiscal y un plan de cuentas por empresa, pueden o no compartir maestros como clientes, proveedores y productos, pero no comparten movimientos
+* Monoempresa: Una estructura de una sola razon social, tiene definida una forma juridica y un solo plan de cuentas
+* Multiempresa: Una estructura de multiples empresas, tienen definida una forma juridica y un plan de cuentas por empresa, pueden o no compartir maestros como clientes, proveedores y productos, pero no comparten movimientos
 ~~~
 #### Tipo de estructura empresarial
 - [ ] Simple
