@@ -1,8 +1,9 @@
 # Cumbre - Gestión en Software 
 ## Etapa: Anteproyecto y Modelamiento
 ## Nombre: Crea Felicidad
-## Implementación de Odoo
+## Tipo: Implementación de Odoo
 - [x] Localización: Argentina
+- [x] Vertical: Cadena de Bares
 
 ### Parametrizaciones de la Compañia
 #### Estructura empresarial
