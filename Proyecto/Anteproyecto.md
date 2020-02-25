@@ -16,7 +16,7 @@
 - [x] Holding
 ~~~
 * Simple: Las empresas, en el caso de multiples empresas, aunque compartan la misma base de datos, no tienen relacion entre si, y se comportan de forma independiente unas de otras
-* Holding: Las empresas se relacionan entre si por medio de una empresa padre que sirve de concolidación, esta empresa puede o no tener un numero fiscal (en caso de no tenerlo se debe colocar uno ficticio) y tambien tiene su plan de cuentas
+* Holding: Las empresas se relacionan entre si por medio de una empresa padre que sirve de concolidación, esta empresa puede o no tener un numero fiscal (en caso de no tenerlo se debe colocar uno ficticio) y tambien tiene su plan de cuentas. Es importante tener en cuenta que un holding no es una forma jurídica específica. Se trata de una estructura y de un modelo de gestión: es decir, de una organización económica que integran distintas compañías.
 ~~~
 #### Estructura de negocios
 - [x] Simple unidad de negocio
