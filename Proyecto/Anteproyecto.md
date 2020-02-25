@@ -2,8 +2,8 @@
 ## Etapa: Anteproyecto y Modelamiento
 ## Nombre: Crea Felicidad
 ## Tipo: Implementación de Odoo
-- [x] Localización: Argentina
-- [x] Vertical: Cadena de Bares
+- Localización: Argentina
+- Vertical: Cadena de Bares
 
 ### Parametrizaciones de la Compañia
 #### Estructura empresarial
