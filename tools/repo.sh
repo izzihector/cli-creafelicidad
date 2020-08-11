@@ -72,9 +72,9 @@ git clone --depth 1 --branch 12.0 --single-branch https://github.com/itpp-labs/m
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/itpp-labs/access-addons.git itpp-labs-access-addons
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/itpp-labs/website-addons.git itpp-labs-website-addons
 #REPOSITORIOS CRUMGES
-git clone --depth 1 --branch 12.0 --single-branch https://github.com/marionumza/addons.git marionumza-addons
+git clone --depth 1 --branch 12.0 --single-branch https://github.com/marionumza/addons.git crumges-addons
 #REPOSITORIOS CREAFELICIDAD
-git clone --depth 1 --branch 12.0 --single-branch https://github.com/marionumza/rep-creaelicidad.git crumges-rep-creaelicidad
+git clone --depth 1 --branch 12.0 --single-branch https://github.com/marionumza/rep-creaelicidad.git rep-creaelicidad
 cd ~/server/12/sources
 find . -name "oca_dependencies.txt" -type f -delete
 cd ~/server/12
